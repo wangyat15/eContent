@@ -24,8 +24,7 @@ KreadoAI is AI-powered platform for creating multilingual videos with custom AI 
 [Plotagon](https://www.plotagon.com/desktop/)
 Plotagon is an animation software for creating videos with story and characters. It allows users to create animated stories with scenes, characters, music, and effects. 
 
-
-<img src="https://github.com/wangyat15/RideShare/blob/c9d9061dd8352d291e153a6a7dfcfa10eec69a78/SRide%20Logo.png" width="300"/>
+<img src="https://github.com/wangyat15/eContent/blob/8a8ecfea14541ac82d53f244e273bea1916cf828/image/plotagon-image.jpg",width="300"/>
 
 ### Graphic/Video/Audio Tools
 #### Canva
