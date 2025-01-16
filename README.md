@@ -13,7 +13,7 @@ The objective of this project is to create eContent that can increase participan
 [H5P](https://h5p.com/)
 H5P is an open-source tool that allows you to create an interactive HTML5 content. H5P is an abbreviation for HTML5 Package. There are 40 + different interactive content types available, including video with interactive quizzes, memory games, image hotspots and others.  [List of interactive content created by H5P](https://h5p.org/content-types-and-applications)
 
-<img src="https://github.com/wangyat15/eContent/blob/e5eb66134815426bd80926f85a62c0e61187e4fd/image/H5Pimage.jpg", width="300"/>
+<img src="https://github.com/wangyat15/eContent/blob/e5eb66134815426bd80926f85a62c0e61187e4fd/image/H5Pimage.jpg" width="300"/>
 
 ### Screen Capturing and Video Tutorials 
 [Camtasia](https://www.techsmith.com/camtasia/)
