@@ -42,7 +42,7 @@ Camtasia is a software for creating and recording video tutorials and presentati
 <img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
 
 
-<a href="https://youtu.be/mVDktD7VRtw"><img src="https://github.com/wangyat15/eContent/blob/084c41eb394e2e27bc3b7e6493c2281b4e6b1da9/image/H5P3.png" width=500/>
+<a href="https://youtu.be/mVDktD7VRtw"><img src="https://github.com/wangyat15/eContent/blob/bdf4fc4388f5abd2f03808ea876c5ee359cf9201/image/Camtasia1.png" width="500"/>
 
 ###### [Click above or here to play the Tutorial Video](https://youtu.be/mVDktD7VRtw)
 
