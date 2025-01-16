@@ -3,10 +3,11 @@ Design and Create Appealing and Dynamic eLearning Training Content
 
 ## Project Description 
 
-This project aims to design and produce engaging eLearning training content that captivates participants and enhances knowledge retention. By incorporating multimedia elements such as animations, videos, images, and interactive slides, we strive to create dynamic online training modules that make complex concepts accessible and enjoyable. 
+This project aims to design and produce engaging eLearning training content that captivates participants and enhances knowledge retention. By incorporating multimedia elements such as animations, videos, images, and interactive slides, it strives to create dynamic online training content that make complex concepts accessible and enjoyable. 
 
 ## Objective 
 The objective of this project is to create eContent that can increase participant engagement and motivation, leading to improved training effectiveness. 
+
 ## Key Components and Tools
 ### H5P
 [H5P](https://h5p.com/)
