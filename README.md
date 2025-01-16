@@ -33,10 +33,10 @@ Plotagon is an animation software for creating videos with story and characters.
 
 <img src="https://github.com/wangyat15/eContent/blob/8a8ecfea14541ac82d53f244e273bea1916cf828/image/plotagon-image.jpg" width="300"/>
 
-### Graphic/Video/Audio Tools
-#### Canva
-https://www.canva.com/
+### Graphic/Video/Audio Tools 
+#### Canva (Graphic Design Tool)
+[Canva](https://www.canva.com/) is an online graphic design tool that uses to create social media posts, presentations, posters, videos, logos and design templates.
 
-#### narakeet
-https://www.narakeet.com/auth/login/
 
+#### narakeet (Text to Speech Video Maker)
+[Narakeet](https://www.narakeet.com/auth/login/) is a text to speech video maker, an online service that make narrated videos easily. It uses artificial intelligence to create life-like narration from speaker notes in a presentation, or from markdown scripts. Users can edit video and picture with Voice and transcribe subtitles.
