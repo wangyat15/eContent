@@ -25,6 +25,8 @@ Camtasia is a software for creating and recording video tutorials and presentati
 [Kreadoai](https://www.kreadoai.com/)
 KreadoAI is AI-powered platform for creating multilingual videos with custom AI models.  It eliminates the need for real models or studio photography for generating videos, such elearning training videos and self-learning tutorial videos.
 
+<img src="https://github.com/wangyat15/eContent/blob/bf8edb88978360d8b5c6e3c26d6ee72004f24436/image/Kreado-ai.jpg" width="300"/>
+
 ### Animation Video with Story and Characters (using Plotagon)
 [Plotagon](https://www.plotagon.com/desktop/)
 Plotagon is an animation software for creating videos with story and characters. It allows users to create animated stories with scenes, characters, music, and effects. 
