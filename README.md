@@ -19,13 +19,20 @@ H5P is an open-source tool that allows trainer to create an interactive HTML5 co
 
 #### [Click above or here to play the IMAGE CHOICE Learning Game](https://erbhk.h5p.com/content/1292484478277980799)
 
-https://erbhk.h5p.com/content/1292484532048018199
 
 #### Memory Game (Language Learning with Image and Voice - Chinese Word) 
 
 <a href="https://erbhk.h5p.com/content/1292484532048018199"><img src="https://github.com/wangyat15/eContent/blob/31a627f3b75e40cfa76173bd21c3a1e4399500f9/image/H5P2.png" width=500/>
 
 #### [Click above or here to play the Memory Game](https://erbhk.h5p.com/content/1292484532048018199)
+
+
+#### Dialog Card (Learning Card with Image and Audio) 
+
+<a href="https://erbhk.h5p.com/content/1292484532048018199"><img src="https://github.com/wangyat15/eContent/blob/31a627f3b75e40cfa76173bd21c3a1e4399500f9/image/H5P2.png" width=500/>
+
+#### [Click above or here to play the Dialog Card](https://erbhk.h5p.com/content/1292484532048018199)
+
 
 
 ### Screen Capturing and Video Tutorials 
