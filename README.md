@@ -19,7 +19,7 @@ H5P is an open-source tool that allows you to create an interactive HTML5 conten
 [Camtasia](https://www.techsmith.com/camtasia/)
 Camtasia is a software for creating and recording video tutorials and presentations via screen recording. Other multimedia recordings may be recorded at the same time or added separately like background music and narration/voice tracks.
 
-<img src="https://github.com/wangyat15/eContent/blob/e5eb66134815426bd80926f85a62c0e61187e4fd/image/H5Pimage.jpg" width="500"/>
+<img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
 
 ### AI Presenter Video (using Kreadoai)
 [Kreadoai](https://www.kreadoai.com/)
