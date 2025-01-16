@@ -51,7 +51,14 @@ Camtasia is a software for creating and recording video tutorials and presentati
 [Kreadoai](https://www.kreadoai.com/)
 KreadoAI is AI-powered platform for creating multilingual videos with custom AI models.  It eliminates the need for real models or studio photography for generating videos, such elearning training videos and self-learning tutorial videos.
 
-<img src="https://github.com/wangyat15/eContent/blob/bf8edb88978360d8b5c6e3c26d6ee72004f24436/image/Kreado-ai.jpg" width="300"/>
+<img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
+
+
+###### [Click above or here to play the Tutorial Video with AI Presenter](https://youtu.be/RhTi9pg4aKQ)
+
+
+
+https://youtu.be/RhTi9pg4aKQ
 
 ### Animation Video with Story and Characters (using Plotagon)
 [Plotagon](https://www.plotagon.com/desktop/)
