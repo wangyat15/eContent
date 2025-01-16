@@ -33,7 +33,9 @@ Plotagon is an animation software for creating videos with story and characters.
 
 <img src="https://github.com/wangyat15/eContent/blob/8a8ecfea14541ac82d53f244e273bea1916cf828/image/plotagon-image.jpg" width="300"/>
 
-### Graphic/Video/Audio Tools 
+
+
+### Other Useful Graphic/Video/Audio Tools 
 #### Canva (Graphic Design Tool)
 [Canva](https://www.canva.com/) is an online graphic design tool that uses to create social media posts, presentations, posters, videos, logos and design templates.
 
