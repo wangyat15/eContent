@@ -35,8 +35,7 @@ The objective of this project is to create eContent that can increase participan
 
 
 ### Screen Capturing and Video Tutorials 
-[Camtasia](https://www.techsmith.com/camtasia/)
-Camtasia is a software for creating and recording video tutorials and presentations via screen recording. Other multimedia recordings may be recorded at the same time or added separately like background music and narration/voice tracks.
+[Camtasia](https://www.techsmith.com/camtasia/) is a software for creating and recording video tutorials and presentations via screen recording. Other multimedia recordings may be recorded at the same time or added separately like background music and narration/voice tracks.
 
 <img src="https://github.com/wangyat15/eContent/blob/41057d3404c9afcda8e37064da43a4efc4db170a/image/Camtasia-image1.jpg" width="300"/>
 
@@ -47,8 +46,7 @@ Camtasia is a software for creating and recording video tutorials and presentati
 
 
 ### AI Presenter Video (using Kreadoai)
-[Kreadoai](https://www.kreadoai.com/)
-KreadoAI is AI-powered platform for creating multilingual videos with custom AI models.  It eliminates the need for real models or studio photography for generating videos, such elearning training videos and self-learning tutorial videos.
+[Kreadoai](https://www.kreadoai.com/) is AI-powered platform for creating multilingual videos with custom AI models.  It eliminates the need for real models or studio photography for generating videos, such elearning training videos and self-learning tutorial videos.
 
 <a href="https://youtu.be/RhTi9pg4aKQ"><img src="https://github.com/wangyat15/eContent/blob/558a6d0b014c2165859a7b59dd0d92db29eccc55/image/AIVideo.jpg" width="500"/>
 
